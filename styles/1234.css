@@ -1,0 +1,21 @@
+/* styles.css */
+
+/* Style for the Barcelona logo */
+.navbar-brand {
+    font-size: 24px; /* Adjust the font size */
+    font-weight: bold; /* Add bold text */
+    color: #0066cc; /* Change the text color to a Barcelona-like blue */
+}
+
+.navbar-brand:hover {
+    color: #ff0000; /* Change the text color on hover to Barcelona red */
+}
+
+/* Style for the navigation links */
+.navbar-nav .nav-link {
+    color: #333; /* Change the default link color */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #0066cc; /* Change the link color on hover */
+}

@@ -7,8 +7,8 @@
 
 header {
     text-align: center;
-    background-color: rgb(249, 241, 0);
-    color: rgb(255, 0, 0);
+    background-color: rgb(195, 6, 0);
+    color: rgb(255, 255, 255);
     padding: 10px 0;
 }
 
@@ -20,7 +20,7 @@ header {
 .logo img {
     width: 80px;
     height: auto;
-    margin-right: 20px;
+    
 }
 
 
@@ -38,7 +38,10 @@ div {
     text-align: center;
     
 }
-
+.images{
+    max-width: 500px;
+    height: 350px;
+}
 nav ul {
     list-style: none;
     display: flex;
@@ -47,7 +50,7 @@ nav ul {
 }
 
 nav li {
-    font-size: 1.2rem;
+    font-size: 20px;
 }
 
 nav a {
@@ -60,7 +63,7 @@ nav a:hover {
     color: #d41a2b;
 }
 table{
-    margin: auto;;
+    margin: auto;
     text-align: center;
 }
 footer {
